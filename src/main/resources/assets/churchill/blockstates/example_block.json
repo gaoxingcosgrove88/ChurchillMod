@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "": { "model": "churchill:block/example_block" }
+    }
+}

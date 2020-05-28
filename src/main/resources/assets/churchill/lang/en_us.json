@@ -1,6 +1,15 @@
 {
+  //items
   "item.churchill.example_item": "Example Item",
   "item.churchill.example_item2": "Example Item 2",
+  //blocks
+  "block.churchill.example_block" : "Example Block",
+  //tools
 
-  "block.churchill.example_block" : "Example Block"
+  "item.churchill.example_sword": "Example Sword",
+  "item.churchill.example_pickaxe": "Example Pickaxe",
+  "item.churchill.example_shovel": "Example Shovel",
+  "item.churchill.example_axe": "Example Axe",
+  "item.churchill.example_hoe": "Example Hoe"
+
 }

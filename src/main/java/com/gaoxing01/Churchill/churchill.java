@@ -19,7 +19,7 @@ import org.apache.logging.log4j.Logger;
 public class churchill
 {
     // Directly reference a log4j logger.
-    private static final Logger LOGGER = LogManager.getLogger();
+    public static final Logger LOGGER = LogManager.getLogger();
     public static final String MOD_ID = "churchill";
     public static churchill instance;
 

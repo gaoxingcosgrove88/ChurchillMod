@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "churchill:example_item2",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 20
+            }
+            ]
+        }
+      ]
+    }
+  ]
+}
